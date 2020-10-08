@@ -1,8 +1,0 @@
-C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
-C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
-C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
-C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
-C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
-C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2.iOS\obj\iPhone\Debug\optimized\
-C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2.iOS\obj\iPhone\Debug\Xamarin2.iOS.csprojAssemblyReference.cache
-C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2.iOS\obj\iPhone\Debug\Xamarin2.iOS.csproj.CoreCompileInputs.cache

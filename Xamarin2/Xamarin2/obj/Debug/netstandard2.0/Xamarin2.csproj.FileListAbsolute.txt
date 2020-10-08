@@ -1,0 +1,14 @@
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\bin\Debug\netstandard2.0\Xamarin2.deps.json
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\bin\Debug\netstandard2.0\Xamarin2.dll
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\bin\Debug\netstandard2.0\ref\Xamarin2.dll
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\bin\Debug\netstandard2.0\Xamarin2.pdb
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\Xamarin2.csprojAssemblyReference.cache
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\Xamarin2.AssemblyInfoInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\Xamarin2.AssemblyInfo.cs
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\Xamarin2.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\Xamarin2.dll
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\ref\Xamarin2.dll
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\Xamarin2.pdb
