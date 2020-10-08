@@ -2,18 +2,20 @@
 using System.IO;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Xamarin2.Data;
 
 namespace Xamarin2
 {
 	public partial class App : Application
 	{
-		public static string FolderPath { get; private set; }
+		//public static string FolderPath { get; private set; }
+		static NoteDatabase database;
 		public App()
 		{
 			InitializeComponent();
 
 			//MainPage = new MainPage();
-			FolderPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData));
+			///FolderPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData));
 			MainPage = new NavigationPage(new NotesPage());
 		}
 
@@ -27,6 +29,18 @@ namespace Xamarin2
 
 		protected override void OnResume()
 		{
+		}
+
+		public static NoteDatabase Database
+		{
+			get
+			{
+				if (database == null)
+				{
+					database = new NoteDatabase(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "Notes.db3"));
+				}
+				return database;
+			}
 		}
 	}
 }

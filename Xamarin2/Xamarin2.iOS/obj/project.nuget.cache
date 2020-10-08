@@ -1,11 +1,29 @@
 {
   "version": 2,
-  "dgSpecHash": "SOSfnI81uQlfqZylo0/JcUXNbx4AajyZvkOVYEoxD+9711PrjIWCcaqTTQAfdmnxI8hsmiSmSNUyjw893kYu6w==",
+  "dgSpecHash": "OldthKzFooqruYX7EcTnOGCOKvSmXNyaEa40aulcPGfCU5qVN+wKh+rIWh5aMYvQMZhU3Pbl2yLRnjQ+gdy8Xw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\C#\\Xamarin2\\Xamarin2\\Xamarin2.iOS\\Xamarin2.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Adarsh\\.nuget\\packages\\sqlite-net-pcl\\1.5.231\\sqlite-net-pcl.1.5.231.nupkg.sha512",
+    "C:\\Users\\Adarsh\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.11\\sqlitepclraw.bundle_green.1.1.11.nupkg.sha512",
+    "C:\\Users\\Adarsh\\.nuget\\packages\\sqlitepclraw.core\\1.1.11\\sqlitepclraw.core.1.1.11.nupkg.sha512",
+    "C:\\Users\\Adarsh\\.nuget\\packages\\sqlitepclraw.provider.sqlite3.ios_unified\\1.1.11\\sqlitepclraw.provider.sqlite3.ios_unified.1.1.11.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 4.8.0.1534 to 4.6.0.1141. Reference the package directly from the project to select a different version. \r\n Xamarin2.iOS -> Xamarin2 -> Xamarin.Forms (>= 4.8.0.1534) \r\n Xamarin2.iOS -> Xamarin.Forms (>= 4.6.0.1141)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
 }

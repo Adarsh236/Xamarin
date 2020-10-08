@@ -21,8 +21,8 @@ namespace Xamarin2
         async void OnSaveButtonClicked(object sender, EventArgs e)
         {
             var note = (Note)BindingContext;
-
-            if (string.IsNullOrWhiteSpace(note.Filename))
+            ///CM
+           /*/* if (string.IsNullOrWhiteSpace(note.Filename))
             {
                 // Save
                 var filename = Path.Combine(App.FolderPath, $"{Path.GetRandomFileName()}.notes.txt");
@@ -32,19 +32,23 @@ namespace Xamarin2
             {
                 // Update
                 File.WriteAllText(note.Filename, note.Text);
-            }
+            }*/
 
+                 note.Date = DateTime.UtcNow;
+            await App.Database.SaveNoteAsync(note);
             await Navigation.PopAsync();
         }
 
         async void OnDeleteButtonClicked(object sender, EventArgs e)
         {
             var note = (Note)BindingContext;
-
-            if (File.Exists(note.Filename))
-            {
-                File.Delete(note.Filename);
-            }
+            ///CM
+            /*/* if (File.Exists(note.Filename))
+             {
+                 File.Delete(note.Filename);
+             }*/
+            
+                 await App.Database.DeleteNoteAsync(note);
 
             await Navigation.PopAsync();
         }

@@ -1,14 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "GoqqeQNym+Qcsf1SR6IRA9F0I5tlDz4Lq0H769c4yVRGmr1ZpF5P9n2zp1uJP5gBrtHHKuY+35lk3AlzsMcHDA==",
+  "dgSpecHash": "S7+K6W1k/kpnE/dtJnRZtTEn0a7PvmdddwkYOAVct2upDE9qOGGrvdTlRVWGDaK3Fo+RbvLWKEKXGHR+R+1WYA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\C#\\Xamarin2\\Xamarin2\\Xamarin2\\Xamarin2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adarsh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Adarsh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Adarsh\\.nuget\\packages\\sqlite-net-pcl\\1.5.231\\sqlite-net-pcl.1.5.231.nupkg.sha512",
+    "C:\\Users\\Adarsh\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.11\\sqlitepclraw.bundle_green.1.1.11.nupkg.sha512",
+    "C:\\Users\\Adarsh\\.nuget\\packages\\sqlitepclraw.core\\1.1.11\\sqlitepclraw.core.1.1.11.nupkg.sha512",
     "C:\\Users\\Adarsh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+    "C:\\Users\\Adarsh\\.nuget\\packages\\xamarin.forms\\4.8.0.1534\\xamarin.forms.4.8.0.1534.nupkg.sha512"
   ],
   "logs": []
 }
