@@ -1,26 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Xamarin2.MainPage">
+             x:Class="Xamarin2.MainPage"
+			 Title="Tutorial">
 
 	<StackLayout Margin="10,35,10,10">
 		<Label Text="Notes"
                HorizontalOptions="Center"
                FontAttributes="Bold" />
-		<Editor x:Name="editor"
-                Placeholder="Enter your note"
-                HeightRequest="100" />
-		<Grid>
-			<Grid.ColumnDefinitions>
-				<ColumnDefinition Width="*" />
-				<ColumnDefinition Width="*" />
-			</Grid.ColumnDefinitions>
-			<Button Text="Save"
-                    Clicked="OnSaveButtonClicked" />
-			<Button Grid.Column="1"
-                    Text="Delete"
-                    Clicked="OnDeleteButtonClicked"/>
-		</Grid>
+
+		<Button Text="StackLayout"
+                    Clicked="StackLayoutClicked" />
+		<Button Text="Label"
+                    Clicked="LabelClicked" />
+		<Button Text="Button"
+                    Clicked="ButtonClicked" />
+		<Button Text="Entry"
+                    Clicked="EntryClicked" />
+		<Button Text="Image"
+                    Clicked="ImageClicked" />
+		<Button Text="Grid"
+                    Clicked="GridClicked" />
+		<Button Text="List"
+                    Clicked="ListClicked" />
+		<Button Text="PopUp"
+                    Clicked="PopUpClicked" />
+		<Button Text="AppLifeCycle"
+                    Clicked="AppLifeCycleClicked" />
 	</StackLayout>
 
 </ContentPage>

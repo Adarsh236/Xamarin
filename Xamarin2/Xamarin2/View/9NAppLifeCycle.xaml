@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin2.View._9NAppLifeCycle"
+			 Title="AppLifeCycle">
+  
+	<StackLayout Margin="20,35,20,20">
+		<Label Text="OnStart method is invoked when the application starts" />
+		<Label Text="OnSleep method is invoked when the application goes to the background." />
+		<Label Text="OnResume method is invoked when the application resumes from the background." />
+		<Entry x:Name="entry"
+               Placeholder="Enter text here"
+               Completed="OnEntryCompleted" />
+	</StackLayout>
+</ContentPage>

@@ -50,6 +50,11 @@ namespace Xamarin2
             });
         }
 
+        async void ScreenClicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new MainPage { });
+        }
+
         async void OnListViewItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
             if (e.SelectedItem != null)

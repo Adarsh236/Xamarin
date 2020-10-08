@@ -14,3 +14,13 @@ C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug
 C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
 C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\Xamarin2.csproj.CoreCompileInputs.cache
 C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\View\1NStackLayout.xaml.g.cs
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\View\2NLabel.xaml.g.cs
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\View\3NButton.xaml.g.cs
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\View\4NEntry.xaml.g.cs
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\View\5NImage.xaml.g.cs
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\View\6NGrid.xaml.g.cs
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\View\10NLocalDB.xaml.g.cs
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\View\7NList.xaml.g.cs
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\View\8NPopUp.xaml.g.cs
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2\obj\Debug\netstandard2.0\View\9NAppLifeCycle.xaml.g.cs

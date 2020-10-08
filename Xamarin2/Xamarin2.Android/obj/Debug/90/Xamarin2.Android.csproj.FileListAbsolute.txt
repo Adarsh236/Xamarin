@@ -479,3 +479,4 @@ C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2.Android\o
 C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2.Android\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
 C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2.Android\obj\Debug\90\android\assets\System.Threading.dll
 C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2.Android\obj\Debug\90\android\assets\System.Threading.Tasks.dll
+C:\Users\Adarsh\OneDrive\Desktop\working\C#\Xamarin2\Xamarin2\Xamarin2.Android\obj\Debug\90\res\drawable\ads2.png

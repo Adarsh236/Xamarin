@@ -10,6 +10,10 @@ namespace Xamarin2
 	{
 		//public static string FolderPath { get; private set; }
 		static NoteDatabase database;
+
+		const string displayText = "displayText";
+
+		public string DisplayText { get; set; }
 		public App()
 		{
 			InitializeComponent();
@@ -19,18 +23,32 @@ namespace Xamarin2
 			MainPage = new NavigationPage(new NotesPage());
 		}
 
+		/// <summary>
+		/// ////////////App Life Cycle-----------////////////
+		/// </summary>
 		protected override void OnStart()
 		{
+			Console.WriteLine("OnStart");
+
+			if (Properties.ContainsKey(displayText))
+			{
+				DisplayText = (string)Properties[displayText];
+			}
 		}
 
 		protected override void OnSleep()
 		{
+			Console.WriteLine("OnSleep");
+			Properties[displayText] = DisplayText;
 		}
 
 		protected override void OnResume()
 		{
+			Console.WriteLine("OnResume");
 		}
-
+		/// <summary>
+		/// /////**********-------------------************//////////
+		/// </summary>
 		public static NoteDatabase Database
 		{
 			get
