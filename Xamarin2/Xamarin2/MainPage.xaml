@@ -27,6 +27,8 @@
                     Clicked="PopUpClicked" />
 		<Button Text="AppLifeCycle"
                     Clicked="AppLifeCycleClicked" />
+		<Button Text="WeatherView"
+                    Clicked="WeatherViewClicked" />
 	</StackLayout>
 
 </ContentPage>

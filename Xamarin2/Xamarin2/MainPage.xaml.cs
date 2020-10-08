@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
+using Xamarin2.ApiServiceView;
 using Xamarin2.View;
 
 namespace Xamarin2
@@ -54,6 +55,10 @@ namespace Xamarin2
 		async void AppLifeCycleClicked(object sender, EventArgs e)
 		{
 			await Navigation.PushAsync(new _9NAppLifeCycle { });
+		}
+		async void WeatherViewClicked(object sender, EventArgs e)
+		{
+			await Navigation.PushAsync(new WeatherView { });
 		}
 	}
 }
