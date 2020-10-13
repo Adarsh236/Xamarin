@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\C#\\Xamarin2\\Xamarin2\\Xamarin2.Android\\Xamarin2.Android.csproj": {}
+    "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\Xamarin\\Xamarin2\\Xamarin2\\Xamarin2.Android\\Xamarin2.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\C#\\Xamarin2\\Xamarin2\\Xamarin2.Android\\Xamarin2.Android.csproj": {
+    "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\Xamarin\\Xamarin2\\Xamarin2\\Xamarin2.Android\\Xamarin2.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\C#\\Xamarin2\\Xamarin2\\Xamarin2.Android\\Xamarin2.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\Xamarin\\Xamarin2\\Xamarin2\\Xamarin2.Android\\Xamarin2.Android.csproj",
         "projectName": "Xamarin2.Android",
-        "projectPath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\C#\\Xamarin2\\Xamarin2\\Xamarin2.Android\\Xamarin2.Android.csproj",
+        "projectPath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\Xamarin\\Xamarin2\\Xamarin2\\Xamarin2.Android\\Xamarin2.Android.csproj",
         "packagesPath": "C:\\Users\\Adarsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\C#\\Xamarin2\\Xamarin2\\Xamarin2.Android\\obj\\",
+        "outputPath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\Xamarin\\Xamarin2\\Xamarin2\\Xamarin2.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\C#\\Xamarin2\\Xamarin2\\Xamarin2\\Xamarin2.csproj": {
-                "projectPath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\C#\\Xamarin2\\Xamarin2\\Xamarin2\\Xamarin2.csproj"
+              "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\Xamarin\\Xamarin2\\Xamarin2\\Xamarin2\\Xamarin2.csproj": {
+                "projectPath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\Xamarin\\Xamarin2\\Xamarin2\\Xamarin2\\Xamarin2.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\C#\\Xamarin2\\Xamarin2\\Xamarin2\\Xamarin2.csproj": {
+    "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\Xamarin\\Xamarin2\\Xamarin2\\Xamarin2\\Xamarin2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\C#\\Xamarin2\\Xamarin2\\Xamarin2\\Xamarin2.csproj",
+        "projectUniqueName": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\Xamarin\\Xamarin2\\Xamarin2\\Xamarin2\\Xamarin2.csproj",
         "projectName": "Xamarin2",
-        "projectPath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\C#\\Xamarin2\\Xamarin2\\Xamarin2\\Xamarin2.csproj",
+        "projectPath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\Xamarin\\Xamarin2\\Xamarin2\\Xamarin2\\Xamarin2.csproj",
         "packagesPath": "C:\\Users\\Adarsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\C#\\Xamarin2\\Xamarin2\\Xamarin2\\obj\\",
+        "outputPath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\Xamarin\\Xamarin2\\Xamarin2\\Xamarin2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UXccCyBugjc1XyLCyniFDpbK5mdF+CESgrNxJxe9ZMfJBNuhW1Zyn1eaUQtfBOF0e1306gNnvbIPiOPCGATlXA==",
+  "dgSpecHash": "EaWDEwSMerxra0npB1c3kL+WCd/dQtQDIt4+jTL2UY8m8q+Pn9jfZBCGF3NT4Eep7jZmEFP50cAKuJ2L65f2tg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\C#\\Xamarin2\\Xamarin2\\Xamarin2.Android\\Xamarin2.Android.csproj",
+  "projectFilePath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\Xamarin\\Xamarin2\\Xamarin2\\Xamarin2.Android\\Xamarin2.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adarsh\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Adarsh\\.nuget\\packages\\sqlite-net-pcl\\1.5.231\\sqlite-net-pcl.1.5.231.nupkg.sha512",

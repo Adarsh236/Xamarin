@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 x:Class="Xamarin2.ApiServiceView.PeopleList"
+			  Title="People List">
+
+	<StackLayout Margin="20,35,20,20">
+		<Grid>
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="*" />
+				<ColumnDefinition Width="*" />
+			</Grid.ColumnDefinitions>
+			<Button Text="Previos"
+					Clicked="OnPreviosClicked" />
+			<Button Grid.Column="1"
+					Text="Next"
+					Clicked="OnNextClicked"/>
+		</Grid>
+		
+		<ListView x:Name="listView"
+				  HasUnevenRows="true"
+			  ItemSelected="OnListViewItemSelected">
+			<ListView.ItemTemplate>
+				<DataTemplate>
+					<ViewCell>
+						<Grid Padding="10">
+							<Grid.RowDefinitions>
+								<RowDefinition Height="Auto" />
+								<RowDefinition Height="*" />
+							</Grid.RowDefinitions>
+							<Grid.ColumnDefinitions>
+								<ColumnDefinition Width="Auto" />
+								<ColumnDefinition Width="*" />
+							</Grid.ColumnDefinitions>
+							<Label Grid.Column="1"
+						   Text="{Binding Name}"
+						   FontAttributes="Bold" />
+							<Label Grid.Row="1"
+						   Grid.Column="1"
+						   Text="{Binding Url}"
+						   VerticalOptions="End" />
+						</Grid>
+					</ViewCell>
+				</DataTemplate>
+			</ListView.ItemTemplate>
+		</ListView>
+			
+	</StackLayout>
+
+</ContentPage>

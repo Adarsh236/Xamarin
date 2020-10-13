@@ -29,6 +29,8 @@
                     Clicked="AppLifeCycleClicked" />
 		<Button Text="WeatherView"
                     Clicked="WeatherViewClicked" />
+		<Button Text="PeopleView"
+                    Clicked="PeopleViewClicked" />
 	</StackLayout>
 
 </ContentPage>

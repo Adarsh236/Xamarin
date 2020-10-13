@@ -20,24 +20,24 @@ namespace Xamarin2.ApiServiceView
 			InitializeComponent();
 			_restService = new RestService();
 		}
-        async void OnButtonClicked(object sender, EventArgs e)
-        {
-            if (!string.IsNullOrWhiteSpace(cityEntry.Text))
-            {
-                ApiData apiData = await _restService.GetWeatherDataAsync(GenerateRequestUri(Constants.OpenWeatherMapEndpoint));
-                BindingContext = apiData;
-            }
-        }
+		async void OnButtonClicked(object sender, EventArgs e)
+		{
+			if (!string.IsNullOrWhiteSpace(cityEntry.Text))
+			{
+				// ApiData apiData = await _restService.RequestPeople(GenerateRequestUri(Constants.OpenWeatherMapEndpoint));
+				//BindingContext = apiData;
+			}
+		}
 
-        string GenerateRequestUri(string endpoint)
-        {
-            string requestUri = endpoint;
-           requestUri += $"{cityEntry.Text}";
-            /* requestUri += "&units=imperial"; // or units=metric
-            requestUri += $"&APPID={Constants.OpenWeatherMapAPIKey}";*/
-            Debug.WriteLine("--------\n");
-            Debug.WriteLine(requestUri);
-            return requestUri;
-        }
-    }
+		string GenerateRequestUri(string endpoint)
+		{
+			string requestUri = endpoint;
+			requestUri += $"{cityEntry.Text}";
+			/* requestUri += "&units=imperial"; // or units=metric
+			requestUri += $"&APPID={Constants.OpenWeatherMapAPIKey}";*/
+			Debug.WriteLine("--------\n");
+			Debug.WriteLine(requestUri);
+			return requestUri;
+		}
+	}
 }

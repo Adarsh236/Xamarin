@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cT41xbTBoJTMix88AGP6pY1oQ4Upvfj2ij19YU/78CIeIm+yrA4CKiQHr3r/bux4WqkqdeR03bgsD145+q2Uvg==",
+  "dgSpecHash": "boG6aYWUVUPm5AxjNSu5FRZTftPJyMQ1/2u1oxq+5BCPA9NI93hHt6Zeiyia7ZH9nKXB7XW8SaSFmPk/+2zdcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\C#\\Xamarin2\\Xamarin2\\Xamarin2\\Xamarin2.csproj",
+  "projectFilePath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\Xamarin\\Xamarin2\\Xamarin2\\Xamarin2\\Xamarin2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adarsh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Adarsh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

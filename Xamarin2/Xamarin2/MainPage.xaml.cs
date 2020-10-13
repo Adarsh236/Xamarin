@@ -16,7 +16,7 @@ namespace Xamarin2
 		public MainPage()
 		{
 			InitializeComponent();
-			
+
 		}
 
 		async void StackLayoutClicked(object sender, EventArgs e)
@@ -57,6 +57,10 @@ namespace Xamarin2
 			await Navigation.PushAsync(new _9NAppLifeCycle { });
 		}
 		async void WeatherViewClicked(object sender, EventArgs e)
+		{
+			await Navigation.PushAsync(new PeopleList { });
+		}
+		async void PeopleViewClicked(object sender, EventArgs e)
 		{
 			await Navigation.PushAsync(new WeatherView { });
 		}

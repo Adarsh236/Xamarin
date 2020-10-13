@@ -1352,11 +1352,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\C#\\Xamarin2\\Xamarin2\\Xamarin2.iOS\\Xamarin2.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\Xamarin\\Xamarin2\\Xamarin2\\Xamarin2.iOS\\Xamarin2.iOS.csproj",
       "projectName": "Xamarin2.iOS",
-      "projectPath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\C#\\Xamarin2\\Xamarin2\\Xamarin2.iOS\\Xamarin2.iOS.csproj",
+      "projectPath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\Xamarin\\Xamarin2\\Xamarin2\\Xamarin2.iOS\\Xamarin2.iOS.csproj",
       "packagesPath": "C:\\Users\\Adarsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\C#\\Xamarin2\\Xamarin2\\Xamarin2.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\Xamarin\\Xamarin2\\Xamarin2\\Xamarin2.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1377,8 +1377,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\C#\\Xamarin2\\Xamarin2\\Xamarin2\\Xamarin2.csproj": {
-              "projectPath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\C#\\Xamarin2\\Xamarin2\\Xamarin2\\Xamarin2.csproj"
+            "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\Xamarin\\Xamarin2\\Xamarin2\\Xamarin2\\Xamarin2.csproj": {
+              "projectPath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\working\\Xamarin\\Xamarin2\\Xamarin2\\Xamarin2\\Xamarin2.csproj"
             }
           }
         }
